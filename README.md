@@ -20,11 +20,11 @@ Ecoleta its a web/mobile aplication to map recycling points and helping people t
 
 
 <p align="center"> 
-<img  height="80%" width="80%"  src=".github/form.gif">
+<img  height="60%" width="60%"  src=".github/form.gif">
 </p>
 
 
 <p align="center"> 
-<img  height="60%" width="60%"  src=".github/mobile-demo.gif">
+<img  height="40%" width="40%"  src=".github/mobile-demo.gif">
 </p>
 
