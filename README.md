@@ -1,2 +1,2 @@
 # Ecoleta
-App to find places for proper discard junk
+Aplication to find recycling points to proper discard junk

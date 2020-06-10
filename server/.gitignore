@@ -1,0 +1,5 @@
+node_modules
+resume.md
+
+*.sqlile
+.env
