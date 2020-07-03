@@ -9,7 +9,7 @@ Aplication to find recycling points to proper discard junk
 
 ---
 ## About
-Ecoleta its a web/mobile aplication to map recycling points and helping people to find the near place to proper discard junk like eletronics pieces, bateries, lamps or paper.
+Ecoleta it's a web/mobile application to map recycling points and helping people to find the near place to properly discard junk like electronics pieces, batteries, lamps, or paper.
 
 <p align="center"> 
 <img  height="80%" width="80%"  src=".github/home-page.png">
